@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WIMM</string>
+    <string name="facebook_app_id">948547482571078</string>
+    <string name="fb_login_protocol_scheme">fb948547482571078</string>
+    <string name="navigation_drawer_open">Open navigation Drawer</string>
+    <string name="navigation_drawer_close">Close navigation Drawer</string>
+
+
+</resources>

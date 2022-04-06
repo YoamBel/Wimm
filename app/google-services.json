@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969319941772",
+    "project_id": "wimm-f3395",
+    "storage_bucket": "wimm-f3395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969319941772:android:4e42dc1b4291c97b6edda9",
+        "android_client_info": {
+          "package_name": "com.example.wimm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969319941772-7khtdc7b97fc6fl4nmonatgtbhskh35d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBaFMm1spY0yFkLrFqCfhuB8lMhTBfY0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969319941772-7khtdc7b97fc6fl4nmonatgtbhskh35d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
